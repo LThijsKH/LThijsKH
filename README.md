@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋 I'm Leo
+
+I'm a Student at Dawson College in Montreal,Canada
+
+I'm Currently learning Python
+
+
+#### 🔭 I’m currently working on ...
+
 
 <!--
 **LThijsKH/LThijsKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,6 +8,9 @@ I'm Currently learning Python
 #### 🔭 I’m currently working on ...
 
 
+### GitHub Stats
+![Leo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LThijsKH&show_icons=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LThijsKH&layout=compact&langs_count=10)
 <!--
 **LThijsKH/LThijsKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
